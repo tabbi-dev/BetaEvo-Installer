@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DiscordProjectSettings">
-    <option name="show" value="ASK" />
-    <option name="description" value="" />
+    <option name="show" value="PROJECT_FILES" />
+    <option name="description" value="Installer script for JohnyMuffin's Beta Evolutions mod for Minecraft Beta 1.7.3" />
   </component>
 </project>
