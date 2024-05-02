@@ -3,4 +3,5 @@
 /workspace.xml
 
 # ignore IntelliJ Idea files
-../.idea
+
+/.idea/
