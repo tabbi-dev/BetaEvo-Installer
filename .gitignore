@@ -1,7 +1,2 @@
-# Default ignored files
-/.idea/shelf/
-/workspace.xml
-
-# ignore IntelliJ Idea files
-
-/.idea/
+.venv
+src/__pycache__
